@@ -2,6 +2,7 @@
 i have developed a ecommerce site.it has some basic features like sign in sign up,night mode,add to cart feature,price calcualation etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### To intsall all the required dependecies
 
 ```
 npm install
