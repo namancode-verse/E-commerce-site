@@ -99,7 +99,21 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
-  }
+  },
+   {
+    id: 9,
+    title: "Galaxy S23 Ultra",
+    img: "img/product-9.png",
+    price: 15,
+    company: "Samsung",
+    info:
+      "Powerful performance with Snapdragon chipset, stunning AMOLED display, and versatile quad-camera setup.",
+    inCart: false,
+    count: 0,
+    total: 0
+  } 
+  
+  
 ];
 
 export const detailProduct = {

@@ -3,23 +3,23 @@
 @tailwind utilities;
 
 :root {
- --mainBlue:#2a2a72;
- --lightBlue:#009ffd;
+ --mainBlue:#f08d22;
+ --lightBlue:#05066a;
  --mainWhite:#f3f3f3;
  --mainDark:#232528;
  --mainYellow:#ffa400;
 }
 .bg-slate-900{
-  background-color: #1F2937;
+  background: linear-gradient(to right, #dbc7c1, #e0dfdf);
 }
 .bg-slate-800{
-  background-color: #2D3748;
+  background-color: #cd7313;
 }
 .themes{
   font-size:x-large;
 }
 .cardbg{
-  background-color: #2D3748;
+  background-color: #f9f9f9;
 }
 .paddinglr{
   width: 100%;
@@ -34,14 +34,14 @@
   color: #009ffd;
 }
 .menubar{
-  border:#979393 1px solid;
+  border:#616060 1px solid;
   padding-left: 3px; 
   padding-right: 3px;
   border-radius: 6px;
   font-size: x-large;
 }
 .bg-slate-200{
-  background-color: #b1bac4;
+  background: linear-gradient(to right, #cbc4c2, #e0dfdf);
 }
 .resmenu{
   display: flex;
